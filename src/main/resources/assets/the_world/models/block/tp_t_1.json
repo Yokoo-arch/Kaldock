@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_world:blocks/machin_side_tpt1",
+    "up": "the_world:blocks/machin_side_tpt1",
+    "north": "the_world:blocks/tp_t1",
+    "east": "the_world:blocks/machin_side_tpt1",
+    "south": "the_world:blocks/machin_side_tpt1",
+    "west": "the_world:blocks/machin_side_tpt1",
+    "particle": "the_world:blocks/machin_side_tpt1"
+  }
+}

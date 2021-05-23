@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "the_world:blocks/dead_flower_1",
+    "particle": "the_world:blocks/dead_flower_1"
+  }
+}

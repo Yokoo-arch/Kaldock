@@ -1,0 +1,12 @@
+{
+  "group": "the_world",
+  "type": "minecraft:smelting",
+  "experience": 1.2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "the_world:erenium_ore"
+  },
+  "result": {
+    "item": "the_world:erenium_ingot"
+  }
+}

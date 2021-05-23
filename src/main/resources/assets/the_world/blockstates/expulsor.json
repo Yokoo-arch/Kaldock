@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "the_world:block/expulsor"
+    },
+    "facing=east": {
+      "model": "the_world:block/expulsor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "the_world:block/expulsor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "the_world:block/expulsor",
+      "y": 270
+    }
+  }
+}

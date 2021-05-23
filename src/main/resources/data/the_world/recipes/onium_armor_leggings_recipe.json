@@ -1,0 +1,36 @@
+{
+  "group": "the_world",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "the_world:onium_dust"
+    },
+    "1": {
+      "item": "the_world:onium_dust"
+    },
+    "2": {
+      "item": "the_world:onium_dust"
+    },
+    "3": {
+      "item": "the_world:onium_dust"
+    },
+    "5": {
+      "item": "the_world:onium_dust"
+    },
+    "6": {
+      "item": "the_world:onium_dust"
+    },
+    "8": {
+      "item": "the_world:onium_dust"
+    }
+  },
+  "result": {
+    "item": "the_world:onium_armor_leggings",
+    "count": 1
+  }
+}

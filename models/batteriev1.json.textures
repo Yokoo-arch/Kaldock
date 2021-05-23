@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cauldron_side",
+        "1": "mushroom_block_skin_red"
+      },
+      "name": "default"
+    }
+  }
+}

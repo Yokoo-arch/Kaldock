@@ -1,0 +1,12 @@
+{
+  "group": "the_world",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_world:silver_ore"
+  },
+  "result": {
+    "item": "the_world:silver_ingot"
+  }
+}

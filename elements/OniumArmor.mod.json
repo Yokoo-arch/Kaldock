@@ -1,0 +1,64 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "onium_head",
+    "enableBody": true,
+    "textureBody": "onium_body",
+    "enableLeggings": true,
+    "textureLeggings": "onium_leggings",
+    "enableBoots": true,
+    "textureBoots": "onium_boots",
+    "onHelmetTick": {
+      "name": "OniumArmorEvenementDeTickDuCasque"
+    },
+    "onBootsTick": {
+      "name": "OniumArmorEvenementDeTickDesBottes"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Kaldock"
+    },
+    "armorTextureFile": "onium",
+    "helmetName": "Onium Helmet",
+    "bodyName": "Onium Chestplate",
+    "leggingsName": "Onium Leggings",
+    "bootsName": "Onium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 37,
+    "damageValueHelmet": 8,
+    "damageValueBody": 11,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 8,
+    "enchantability": 12,
+    "toughness": 2.0,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:OniumDust"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "the_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_world:silver_block"
+    }
+  ],
+  "result": {
+    "item": "the_world:silver_ingot",
+    "count": 9
+  }
+}

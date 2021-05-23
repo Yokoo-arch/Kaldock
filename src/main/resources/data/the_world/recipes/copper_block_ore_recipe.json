@@ -1,0 +1,13 @@
+{
+  "group": "the_world",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_world:copper_block"
+    }
+  ],
+  "result": {
+    "item": "the_world:copper_ingot",
+    "count": 9
+  }
+}

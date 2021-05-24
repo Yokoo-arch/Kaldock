@@ -1,0 +1,36 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Toxicity lelvel :",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Toxicity lelvel :",
+          "x": 330,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:ToxicityLVL>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<VAR:ToxicityLVL>",
+          "x": 330,
+          "y": 26
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}

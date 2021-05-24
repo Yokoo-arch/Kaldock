@@ -4,13 +4,13 @@ package net.mcreator.theworld.block;
 import net.minecraft.block.material.Material;
 
 @TheWorldModElements.ModElement.Tag
-public class KaldockStoneBlock extends TheWorldModElements.ModElement {
+public class ToxicLogBlock extends TheWorldModElements.ModElement {
 
-	@ObjectHolder("the_world:kaldock_stone")
+	@ObjectHolder("the_world:toxic_log")
 	public static final Block block = null;
 
-	public KaldockStoneBlock(TheWorldModElements instance) {
-		super(instance, 83);
+	public ToxicLogBlock(TheWorldModElements instance) {
+		super(instance, 85);
 
 	}
 
@@ -23,10 +23,10 @@ public class KaldockStoneBlock extends TheWorldModElements.ModElement {
 	public static class CustomBlock extends Block {
 
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).lightValue(0).harvestLevel(1)
-					.harvestTool(ToolType.PICKAXE));
+			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(1f, 10f).lightValue(0).harvestLevel(0)
+					.harvestTool(ToolType.AXE));
 
-			setRegistryName("kaldock_stone");
+			setRegistryName("toxic_log");
 		}
 
 		@Override

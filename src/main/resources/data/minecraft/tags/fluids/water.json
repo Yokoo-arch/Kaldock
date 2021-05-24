@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "the_world:toxic_fluid",
+    "the_world:toxic_fluid_flowing"
+  ]
+}

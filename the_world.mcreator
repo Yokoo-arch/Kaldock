@@ -953,6 +953,16 @@
       "ids": {},
       "registry_name": "expulsor",
       "path": "~/OverWorld/Machine"
+    },
+    {
+      "name": "KaldockStone",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kaldock_stone",
+      "path": "~/SpaceT3/Kaldock"
     }
   ],
   "variable_elements": [],
@@ -966,6 +976,7 @@
       "block.the_world.erenium_block": "Erenium Block",
       "item.the_world.onium_axe": "Onium Axe",
       "item.the_world.erenium_sword": "Erenium Sword",
+      "block.the_world.kaldock_stone": "Kaldock Stone",
       "block.the_world.croud_leaves": "Croud Leaves",
       "block.the_world.crate": "Crate",
       "item.the_world.onium_sword": "Onium Sword",
@@ -1022,6 +1033,7 @@
       "block.the_world.erenium_block": "Block en Erenium",
       "item.the_world.onium_axe": "Onium Axe",
       "item.the_world.erenium_sword": "Epée en Erenium",
+      "block.the_world.kaldock_stone": "Kaldock Stone",
       "block.the_world.croud_leaves": "Croud Leaves",
       "block.the_world.crate": "Crate",
       "item.the_world.onium_sword": "Onium Sword",
@@ -1118,7 +1130,12 @@
       },
       {
         "name": "SpaceT3",
-        "children": []
+        "children": [
+          {
+            "name": "Kaldock",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Machin",

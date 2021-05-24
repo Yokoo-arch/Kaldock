@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_world:blocks/kaldock_stone",
+    "up": "the_world:blocks/kaldock_stone",
+    "north": "the_world:blocks/kaldock_stone",
+    "east": "the_world:blocks/kaldock_stone",
+    "south": "the_world:blocks/kaldock_stone",
+    "west": "the_world:blocks/kaldock_stone",
+    "particle": "the_world:blocks/kaldock_stone"
+  }
+}

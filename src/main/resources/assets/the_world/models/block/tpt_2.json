@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_world:blocks/machin_enricher__botom_top",
+    "up": "the_world:blocks/machin_enricher__botom_top",
+    "north": "the_world:blocks/tp_t2_side",
+    "east": "the_world:blocks/machin_enricher__botom_top",
+    "south": "the_world:blocks/machin_enricher__botom_top",
+    "west": "the_world:blocks/machin_enricher__botom_top",
+    "particle": "the_world:blocks/machin_enricher__botom_top"
+  }
+}

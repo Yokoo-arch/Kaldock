@@ -1,0 +1,109 @@
+{
+  "_fv": 18,
+  "_type": "biome",
+  "definition": {
+    "name": "Crash Biome Apo",
+    "groundBlock": {
+      "value": "CUSTOM:ToxicGrass"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "airColor": {
+      "value": -9277372,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -9277372,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -11711692,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "biomeType": "DESERT",
+    "spawnBiome": false,
+    "biomeWeight": 500,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 4,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "CUSTOM:ToxicLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:ToxicLeaves"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "Fossils",
+      "DeadBushes"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityAgeable"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

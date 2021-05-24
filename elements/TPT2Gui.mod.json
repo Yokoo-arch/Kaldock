@@ -1,0 +1,43 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "OVERWORLD",
+          "onClick": {
+            "name": "TPOverWorld"
+          },
+          "width": 70,
+          "height": 20,
+          "name": "OVERWORLD",
+          "x": 177,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "CRASH",
+          "onClick": {
+            "name": "TPCrash"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "CRASH",
+          "x": 141,
+          "y": 80
+        }
+      }
+    ]
+  }
+}

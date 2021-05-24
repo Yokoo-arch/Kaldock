@@ -1,0 +1,24 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "ToxicFluid",
+    "textureStill": "toxic_water_stil",
+    "textureFlowing": "toxic_water_flow",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1100,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": false,
+    "creativeTab": {
+      "value": "CUSTOM:Kaldock"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "onEntityCollides": {
+      "name": "ToxicFluidLorsqueLeMobjoueurEntreEnCollisionAvecLeBloc"
+    }
+  }
+}
